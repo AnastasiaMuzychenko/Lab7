@@ -1,0 +1,7 @@
+.env
+venv
+.venv
+.idea
+*.pdf
+*.odt
+__pycache__
